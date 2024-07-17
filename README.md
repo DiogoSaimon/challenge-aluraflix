@@ -1,3 +1,6 @@
+
+![Badge-AluraFlix](https://github.com/user-attachments/assets/0af6f9a3-6ebc-4c9f-b5d3-f63dd1a2906f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
