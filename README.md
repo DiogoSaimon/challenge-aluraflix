@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+https://my-json-server.typicode.com/DiogoSaimon/challenge-aluraflix-api
+
+https://www.figma.com/design/QkqueDBi43KnRS5oRJCcDY/New-AluraFlix---PT-(Copy)?node-id=1-106&t=tHs7lbtIqHtv9vDO-0
+
+# challenge-aluraflix
